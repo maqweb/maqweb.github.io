@@ -309,7 +309,7 @@ template {
 
 @font-face {
   font-family: 'droid_italic';
-  src: url("/fonts/DroidSerifItalic.woff") format("woff"), url("/fonts/DroidSerifItalic.eot") format("eot"), url("/fonts/DroidSerifItalic.ttf") format("ttf");
+  src: url("../../fonts/DroidSerifItalic.woff") format("woff"), url("../../fonts/DroidSerifItalic.eot") format("eot"), url("../../fonts/DroidSerifItalic.ttf") format("ttf");
   font-weight: normal;
   font-style: normal; }
 
