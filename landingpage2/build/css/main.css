@@ -939,6 +939,7 @@ body {
 
 .footer__wrap {
   width: 60%;
+  align-items: center;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
